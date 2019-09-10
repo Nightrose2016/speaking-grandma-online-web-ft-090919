@@ -17,5 +17,4 @@ def speak_to_grandma
     puts "HUH?! SPEAK UP, SONNY!"
   elsif "I LOVE YOU GRANDMA"
     puts "I LOVE YOU TOO PUMPKIN"
-    
 end
